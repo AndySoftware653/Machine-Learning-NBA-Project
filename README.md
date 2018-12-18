@@ -42,6 +42,7 @@ The sums are then used as training predictors, while the average playoff score i
 Code:
 https://github.com/AndySoftware653/Machine-Learning-NBA-Project/blob/master/NBA_ML_Project.ipynb
 
-***Report is in the Jupyter Notebook
+Report:
+
 
 
