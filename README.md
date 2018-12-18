@@ -2,10 +2,10 @@
 
 Group Members: Jian Nan (Andy) Huang, Mohammed Hasan
 
-#Formulation
+#Formulation<br>
 This code was written to predict the NBA average playoff scores. The average playoff scores were predicted given seasonal stats and knowing who will play in the playoffs. All data was taken from https://www.basketball-reference.com/.
 
-#Approach
+#Approach<br>
 The approach used was multiple linear regression. We applied this method twice, once for predicting seasonal player stats, and once more for predicting the average playoff scores.<br>
 Our chosen predictors for predicting seasonal player stats are:<br>
 ['FG','FGA','FG%','3P','3PA','3P%','2P','2PA','2P%','eFG%','FT','FTA','FT%','STL','MP','TOV','ORB','DRB','BLK','PF']<br>
