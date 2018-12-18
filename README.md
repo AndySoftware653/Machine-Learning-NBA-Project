@@ -1,7 +1,7 @@
 # Machine-Learning-NBA-Project
 
 #Formulation:
-This code was written to predict the NBA average playoff scores. The average playoff scores were predicted given seasonal stats and knowing who will play in the playoffs. All data is taken from https://www.basketball-reference.com/.
+This code was written to predict the NBA average playoff scores. The average playoff scores were predicted given seasonal stats and knowing who will play in the playoffs. All data was taken from https://www.basketball-reference.com/.
 
 #Approach:
 The approach used was multiple linear regression. We applied this method two times, once for predicting seasonal player stats, and another predicting the average playoff scores.
