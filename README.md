@@ -1,5 +1,7 @@
 # Machine-Learning-NBA-Project
 
+Group Members: Jian Nan (Andy) Huang, Mohammed Hasan
+
 #Formulation:<br>
 This code was written to predict the NBA average playoff scores. The average playoff scores were predicted given seasonal stats and knowing who will play in the playoffs. All data was taken from https://www.basketball-reference.com/.
 
