@@ -43,6 +43,6 @@ Code:
 https://github.com/AndySoftware653/Machine-Learning-NBA-Project/blob/master/NBA_ML_Project.ipynb
 
 Report:
-
+https://github.com/AndySoftware653/Machine-Learning-NBA-Project/blob/master/EE-4563%20Final%20Project.pdf
 
 
